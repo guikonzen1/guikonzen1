@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 
-- 🔭 I’m currently working on **A game!**
+- 🔭 I'm currently finishing my  **college!**
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
