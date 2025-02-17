@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently finishing my  **college!**
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Godot**
 
 - 📫 How to reach me **guilhermekonzen1@gmail.com**
 
